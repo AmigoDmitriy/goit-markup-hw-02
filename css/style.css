@@ -136,7 +136,7 @@ body {
   color: var(--CLOUD, #F4F4FD);
 }
 
-.logo1 {
+.link-footer {
   color: var(--IRIS, #4d5ae5);
   font-family: "Raleway";
   font-size: 18px;
@@ -144,20 +144,11 @@ body {
   line-height: 21px;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  text-decoration: none;
 }
 
 .logo3 {
-  color: var(--CLOUD, #F4F4FD);
-  font-family: "Raleway";
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 21px;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-}
-
-.link-footer {
-  text-decoration: none;
+  color: #f4f4fd;
 }
 
 .footer .logo1:hover,
