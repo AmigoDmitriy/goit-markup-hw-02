@@ -13,7 +13,7 @@ body {
   letter-spacing: 0.02em;
 }
 
-.list {
+.adress-list {
   list-style-type: none;
   font-weight: 500;
 }
@@ -134,18 +134,40 @@ body {
 }
 
 /* Main section 3 */
+
+.section3 {
+  background: #F4F4FD;
+}
+
 .title2 {
   font-size: 36px;
   font-weight: 700;
   line-height: 40px;
-}
-
-.section3 {
-  background: #f5f4fa;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+  color: #2E2F42;
 }
 
 .page {
   background: #fff;
+}
+
+.title-photo {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.4px;
+}
+
+/* Main section 4 */
+
+.title2 {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+  color: #2E2F42;
 }
 
 /* Footer */
