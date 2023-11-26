@@ -134,6 +134,7 @@ body {
 
 .text-footer {
   color: var(--CLOUD, #F4F4FD);
+  letter-spacing: 0.32px;
 }
 
 .link-footer {
