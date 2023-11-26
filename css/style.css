@@ -120,11 +120,17 @@ body {
 .title3 {
   font-size: 20px;
   font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.4px;
+  color: var(--NAVY-BLUE, #2E2F42);
 }
 
 .text-advantages {
   color: var(--SLATE, #434455);
+  font-size: 16px;
   font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
 }
 
 /* Main section 3 */
