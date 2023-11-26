@@ -69,6 +69,7 @@ body {
   background: var(--NAVY-BLUE, #2e2f42);
   line-height: 1.07;
   text-align: center;
+  letter-spacing: 0.02em
 }
 
 .title {
@@ -80,6 +81,12 @@ body {
 
 .button-order {
   background: var(--IRIS, #4d5ae5);
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.64px;
+  color: #ffffff
 }
 
 .button-order:hover,
@@ -129,11 +136,24 @@ body {
   color: var(--CLOUD, #F4F4FD);
 }
 
+.logo1 {
+  color: var(--IRIS, #4d5ae5);
+  font-family: "Raleway";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
 .logo3 {
   color: var(--CLOUD, #F4F4FD);
   font-family: "Raleway";
   font-size: 18px;
-  font-weight: 700
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 .link-footer {
