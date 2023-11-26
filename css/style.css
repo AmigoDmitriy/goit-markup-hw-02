@@ -67,6 +67,8 @@ body {
 
 .main-title {
   background: var(--NAVY-BLUE, #2e2f42);
+  line-height: 1.07;
+  text-align: center;
 }
 
 .title {
