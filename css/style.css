@@ -42,7 +42,7 @@ body {
 
 .nav-list .link:hover,
 .nav-list .link:focus {
-  color: var(--IRIS, #4d5ae5);
+  color: #404bbf;
 }
 
 .logo-two {
