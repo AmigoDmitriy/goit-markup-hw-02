@@ -19,7 +19,7 @@ body {
 }
 
 /* Header */
-.logo1 {
+.logo-one {
   color: var(--IRIS, #4d5ae5);
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -44,16 +44,9 @@ body {
   color: var(--IRIS, #4d5ae5);
 }
 
-.logo1 {
-  color: var(--IRIS, #4d5ae5);
-  font-family: "Raleway";
-  font-size: 18px;
-  font-weight: 700;
-}
-
-.logo2 {
+.logo-two {
   color: var(--NAVY-BLUE, #2e2f42);
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
 }
@@ -203,7 +196,7 @@ body {
   text-decoration: none;
 }
 
-.logo3 {
+.logo-three {
   color: #f4f4fd;
 }
 
