@@ -13,12 +13,17 @@ body {
   letter-spacing: 0.02em;
 }
 
+/* Header */
+
+.adress {
+  font-style: normal
+}
+
 .adress-list {
   list-style-type: none;
   font-weight: 500;
 }
 
-/* Header */
 .logo-one {
   color: var(--IRIS, #4d5ae5);
   font-family: "Raleway", sans-serif;
