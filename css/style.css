@@ -52,10 +52,10 @@ body {
   font-weight: 700;
 }
 
-.adress {
+.adress .link {
   font-style: normal;
   letter-spacing: 0.02em;
-  color: var(--SLATE, #434455);
+  color: #434455;
 }
 
 .adress .link:focus,
