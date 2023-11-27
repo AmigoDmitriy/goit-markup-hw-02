@@ -154,6 +154,10 @@ body {
 
 /* Main section 4 */
 
+.portfolio-list {
+  list-style-type: none;
+}
+
 .title-portfolio {
   font-size: 36px;
   font-weight: 700;
