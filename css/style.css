@@ -130,6 +130,9 @@ body {
 }
 
 /* Main section 3 */
+.secrion3-list {
+  list-style-type: none;
+}
 
 .section-three {
   background: #f4f4fd;
